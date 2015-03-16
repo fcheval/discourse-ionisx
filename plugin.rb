@@ -1,5 +1,5 @@
 # name: ionisx
-# about: adds ionisx authenticaiton support to Discourse
+# about: Add IONISx authentication support to Discourse.
 # version: 0.1
 # authors: Franck Chevallereau
 

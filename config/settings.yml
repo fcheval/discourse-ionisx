@@ -1,4 +1,4 @@
-login: #set to ionisx to put the category out of /admin/Login
+ionisx:
   ionisx_client_id: ''
   ionisx_client_secret: ''
   ionisx_site_url:
